@@ -1,4 +1,5 @@
-# Nodejs based eCommerce Application  
+# Nodejs based eCommerce Application 
+# MVC stucture
 ## Features - Create the REST APIs for categories
 
 - Create the REST APIs for Products
